@@ -42,4 +42,4 @@ async def fight(ctx):
         await ctx.send('Вы проиграли')
     else:
         await ctx.send('Вы победили')
-bot.run('MTEzNjI1NDMyNzI0MjEwMDgyNw.GO_kIi.rksoOSJr7d70ZInPyQtM5H6QhaVL6hl3V0OGvQ')
+bot.run('')
